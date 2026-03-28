@@ -160,7 +160,7 @@ REACT_APP_API_BASE_URL=http://localhost:5115/api
 
 # 🗄️ Database Setup
 
-## Run SQL Server via Docker
+## Run SQL Server via Docker(MacBook)
 
 ```bash
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=YourPassword123!" -p 1433:1433 --name sqlserver -d mcr.microsoft.com/mssql/server:2019-latest
@@ -291,12 +291,6 @@ CREATE TABLE Employees (
 
 ![Employees Table](./Screenshots/employeeTable.png)
 ```
-screenshots/
-  departments.png
-  employees.png
-  form.png
-```
-
 
 ---
 
@@ -315,7 +309,6 @@ screenshots/
 # 👨‍💻 Author
 
 **Samuditha Jayawardena**
-Software Engineer
 
 ---
 
