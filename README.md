@@ -1,4 +1,4 @@
-# 🚀 Employee Management System
+#  Pacific Kode Assignment - Employee Management System
 
 A full-stack Employee Management System built using **React**, **ASP.NET Core Web API**, **SQL Server**, and **ADO.NET**.
 
@@ -11,7 +11,7 @@ This project demonstrates modern full-stack development practices including:
 
 ---
 
-# 📌 Overview
+#  Overview
 
 The system allows users to manage:
 
@@ -22,7 +22,7 @@ It supports full CRUD operations with validation, pagination, and structured API
 
 ---
 
-# 🧱 System Architecture
+#  System Architecture
 
 ```
 Frontend (React + Tailwind)
@@ -34,7 +34,7 @@ Database (SQL Server)
 
 ---
 
-# ✨ Features
+# Features
 
 ## 🔹 Department Module
 
@@ -122,7 +122,7 @@ employee-management-ui/
 
 # ⚙️ Setup Instructions
 
-## 🔧 Backend Setup
+## Backend Setup
 
 ```bash
 cd EmployeeManagement.API
@@ -142,7 +142,7 @@ Update `appsettings.json`:
 
 ---
 
-## 🎨 Frontend Setup
+## Frontend Setup
 
 ```bash
 cd employee-management-ui
@@ -268,8 +268,28 @@ CREATE TABLE Employees (
 
 # 📸 Screenshots
 
-Add screenshots here for better presentation:
+## Departments
+![Departments](./Screenshots/departmentsList.png)
 
+## Employees
+![Employees](./Screenshots/employeeList.png)
+
+## Employee Form
+![Employee Form](./Screenshots/addEmployee.png)
+
+## Department Form
+![Department Form](./Screenshots/addDepartment.png)
+
+## Edit Employee
+![Edit Employee](./Screenshots/editEmployee.png)
+
+## Edit Department
+![Edit Department](./Screenshots/editDepartment.png)
+
+## Database Tables
+![Department Table](./Screenshots/departmentTable.png)
+
+![Employees Table](./Screenshots/employeeTable.png)
 ```
 screenshots/
   departments.png
