@@ -1,0 +1,13 @@
+# frontend
+node_modules/
+build/
+dist/
+.env
+
+# backend
+bin/
+obj/
+
+# editor / OS
+.vscode/
+.DS_Store
